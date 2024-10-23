@@ -39,7 +39,7 @@
         <h2>
         <?php
         if (isset($_REQUEST['email'])) {
-            $admin_email = "youremail@domain.com"; // Replace with your email
+            $admin_email = "sariashammout@apollodistributionlab.com"; // Replace with your email
             $email = $_REQUEST['email'];
             $phone = $_REQUEST['phone'];
             $subject = $_REQUEST['subject'];

@@ -61,7 +61,7 @@ header{
     height: 100%;
     width: 100%;
     min-height: 100vh;
-    background: linear-gradient(245.59deg, #c4c4daa6 -10%, #c4c4daa6 2.53%, #c4c4daa6 75.52%, #c4c4daa6 90.52%);
+    background: linear-gradient(245.59deg, #d9d9e7 -10%, #d9d9e7 2.53%, #d9d9e7 75.52%, #d9d9e7 90.52%);
     position: relative;
     display: grid;
     grid-template-columns: repeat(2, 1fr);
